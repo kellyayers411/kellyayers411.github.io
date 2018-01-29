@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Gem CLI"
-date:       2018-01-29 00:17:30 +0000
+date:       2018-01-28 19:17:30 -0500
 permalink:  ruby_gem_cli
 ---
 
